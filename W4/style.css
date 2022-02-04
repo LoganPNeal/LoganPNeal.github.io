@@ -1,0 +1,28 @@
+h1{
+    font-family: 'Monoton', cursive;
+    font-size: 6em;
+    color: #8A1C7C;
+    background-color: #ADBF97;
+}
+
+body{
+    font-family: 'Stick No Bills', sans-serif;
+    background-image: radial-gradient(#251605, #ADBF97, #FB6107);
+    }
+
+p{ font-size: 2em;
+   color: #30BCED;
+    background-color: #FB6107;
+}
+
+.directions{
+    color: #ADBF97;
+    background-color: #8A1C7C;
+    font-size: 3em;
+}
+
+.ingredients{
+    color: #FB6107;
+    background-color: #30BCED;
+    font-size: 3em;
+}
