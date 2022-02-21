@@ -1,0 +1,60 @@
+body{
+    background-color: #9aa0a8;
+    margin: 0;
+    font-family:'Ubuntu', sans-serif; 
+}
+
+h1{
+    font-family: 'redressed',cursive;
+    color: #f2ab40; 
+    font-size: 78;
+    margin: 10px;
+}
+
+h2{
+    font-family: 'redressed',cursive;
+    color: #32533d;
+    font-size: 48;
+}
+
+p{ 
+    
+    font-size: 20;
+}
+img{
+    width: 100%;
+    position: relative;
+    
+}
+
+.header{ 
+    width: 50%;
+    text-align: center;
+    position: absolute;
+   z-index: 100;
+    top: 45%;
+    left: 385px;
+    background-color: rgba(102,122,115,.6) ;
+    padding: 10;
+    
+    
+     
+ 
+}
+
+.container{ 
+   display: inline-block;
+    position: relative;
+}
+
+.directions{
+    clear:both; 
+    padding: 20px 15%;
+    font-size: 20;
+}
+
+.ingredients{
+    clear:both;
+    padding: 20px 15%;
+    font-size: 26;
+}
